@@ -1,10 +1,10 @@
 {
-  "client_id": "https://poppy-agent-cli.vercel.app/agent.json",
+  "client_id": "https://github.com/dlozlla/GearUp-MCP/blob/main/agent.json",
   "client_name": "Poppy Agent CLI",
   "jwks_uri": "https://poppy-agent-cli.vercel.app/jwks.json",
   "redirect_uris": [
     "http://127.0.0.1/callback",
-    "https://poppy-agent-cli.vercel.app/callback.html"
+    "https://github.com/dlozlla/GearUp-MCP/blob/main/callback.html"
   ],
   "token_endpoint_auth_method": "private_key_jwt",
   "grant_types": [
