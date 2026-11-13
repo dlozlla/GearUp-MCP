@@ -1,7 +1,7 @@
 {
   "client_id": "https://raw.githubusercontent.com/dlozlla/GearUp-MCP/refs/heads/main/agent.json",
   "client_name": "Poppy Agent CLI",
-  "jwks_uri": "https://poppy-agent-cli.vercel.app/jwks.json",
+  "jwks_uri": "https://raw.githubusercontent.com/dlozlla/GearUp-MCP/refs/heads/main/jwks.json",
   "redirect_uris": [
     "http://127.0.0.1/callback",
     "https://github.com/dlozlla/GearUp-MCP/blob/main/callback.html"
