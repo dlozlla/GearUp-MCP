@@ -4,7 +4,7 @@
   "jwks_uri": "https://raw.githubusercontent.com/dlozlla/GearUp-MCP/refs/heads/main/jwks.json",
   "redirect_uris": [
     "http://127.0.0.1/callback",
-    "https://github.com/dlozlla/GearUp-MCP/blob/main/callback.html"
+    "https://raw.githubusercontent.com/dlozlla/GearUp-MCP/callback.html"
   ],
   "token_endpoint_auth_method": "private_key_jwt",
   "grant_types": [
